@@ -1,2 +1,0 @@
-/*! For license information please see module.js.LICENSE.txt */
-(()=>{var __webpack_modules__={"./js/module.js":()=>{eval('console.log("%c YOUR SCRIPT IS INSERTED", "background: red; color: white; font-size: 28px; font-weight: 700; padding: 8px 14px; border-radius: 4px;");\n\n//# sourceURL=webpack://test-assignment/./js/module.js?')}},__webpack_exports__={};__webpack_modules__["./js/module.js"]()})();
